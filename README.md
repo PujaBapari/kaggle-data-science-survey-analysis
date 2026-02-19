@@ -7,7 +7,7 @@ The data science landscape is constantly evolving. This project analyzes annual 
 
 ## 📂 Dataset Source
 The analysis is based on the official Kaggle Survey datasets. You can find the data used in this project here:
-👉 [[Kaggle Machine Learning & Data Science Survey Data](https://www.kaggle.com/datasets/praveengovi/kaggle-survey-2017-2021)](https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021)
+👉 [[[Kaggle Machine Learning & Data Science Survey Data]](https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021)]
 
 ## 🎯 Key Objectives
 - **Trend Analysis:** Compare the popularity of programming tools over time.
